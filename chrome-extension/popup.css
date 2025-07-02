@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    padding: 10px;
+    width: 250px;
+  }
+  
+  h3 {
+    margin-top: 0;
+  }
+  
+  #status {
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
+  ul {
+    padding-left: 20px;
+  }
+  
